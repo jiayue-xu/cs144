@@ -1,11 +1,18 @@
-Lab 0 Writeup
+Lab 1 Writeup
 =============
 
 My name: [jiayue-xu]
 
-This lab took me about [5] hours to do. I [did/did not] attend the lab session.
+This lab took me about [10] hours to do. I [did/did not] attend the lab session.
 
-My secret code from section 2.1 was: [code here]
+Program Structure and Design of the StreamReassembler:
+[deque]
+
+Implementation Challenges:
+[index transform & edge conditions]
+
+Remaining Bugs:
+[]
 
 - Optional: I had unexpected difficulty with: [describe]
 
