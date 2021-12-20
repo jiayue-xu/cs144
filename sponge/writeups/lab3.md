@@ -1,11 +1,11 @@
-Lab 2 Writeup
+Lab 3 Writeup
 =============
 
 My name: [jiayue-xu]
 
-This lab took me about [10] hours to do.
+This lab took me about [n] hours to do.
 
-Program Structure and Design of the TCPReceiver and wrap/unwrap routines:
+Program Structure and Design of the TCPSender:
 []
 
 Implementation Challenges:
